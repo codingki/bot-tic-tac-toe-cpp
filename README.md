@@ -1,6 +1,8 @@
 # Tic Tac Toe Game with bot
+
 My Final Project on the first year(2019)
 ![preview](./preview.gif)
+
 the source code is in main.cpp file
 
 ## Play it
